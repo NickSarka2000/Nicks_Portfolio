@@ -1,2 +1,2 @@
-# Nick-s-Portfolio
+# Nick's Portfolio
 Portfolio for my data/non-data projects
