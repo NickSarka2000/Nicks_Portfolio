@@ -1,3 +1,6 @@
+# Data Science portfolio by Nick Sarka
+This portfolio is a compilation of notebooks which I created for data analysis. I use separate categories for indicating separate projects.
+
 # Table of Contents
 
 ## 1. [Project 1: Home Credit / Loan Default Risk](#Project-1:-Home-Credit-/-Loan-Default-Risk)
@@ -6,9 +9,6 @@
   #### 3. [Disccusion of the missing data](#Discussion-of-the-missing-data)
   #### 4. [Exploratory visualizations and/or summary tables](#Exploratory-visualizations-and/or-summary-tables)
   #### 5. [Results section](#Results-section)
-
-# Data Science portfolio by Nick Sarka
-This portfolio is a compilation of notebooks which I created for data analysis. I use separate categories for indicating separate projects.
 
 # [Project 1: Home Credit / Loan Default Risk](https://github.com/NickSarka2000/MSBA-Repo)
 #### 1. Introduction
