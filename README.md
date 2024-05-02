@@ -75,5 +75,5 @@ Our team's contributions include:
 - Feature engineering and model development
 - Evaluation and interpretation of results
 
-## 11. Conclusion
+#### 11. Conclusion
 This project has shown that predictive modeling can significantly enhance the ability of financial institutions to lend responsibly, while also promoting financial inclusion by accurately assessing creditworthiness. This work underscores the impactful role of data science in advancing equitable financial services.
