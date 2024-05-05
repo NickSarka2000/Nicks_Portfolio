@@ -6,11 +6,6 @@ This portfolio is a compilation of notebooks which I created for data analysis. 
 ## 1. [Project 1: Home Credit / Loan Default Risk](#Project-1:-Home-Credit-/-Loan-Default-Risk)
 
 # [Project 1: Home Credit / Loan Default Risk](https://github.com/NickSarka2000/MSBA-Repo)
-  #### 1. [Introduction](#Introduction)
-  #### 2. [Description of the data](#Description-of-the-data)
-  #### 3. [Disccusion of the missing data](#Discussion-of-the-missing-data)
-  #### 4. [Exploratory visualizations and/or summary tables](#Exploratory-visualizations-and/or-summary-tables)
-  #### 5. [Results section](#Results-section)
 
 
 #### 1. Introduction
