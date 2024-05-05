@@ -37,7 +37,7 @@ The EDA phase provided several key insights:
 
 1. **Class Imbalance**: 91.9% of the loans in the training data were repaid, indicating a significant class imbalance.
 2. **Feature Correlations**: Several features showed notable correlations with the target variable:
-   - **DAYS_BIRTH** and **AGE_GROUP**: Older applicants tend to have lower default rates.
+   - **DAYS_BIRTH**: Older applicants tend to have lower default rates.
    - **DAYS_EMPLOYED**: Longer employment duration correlates negatively with default rates.
    - **External Scores**: Scores from external sources negatively correlate with default likelihood.
 
