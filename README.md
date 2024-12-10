@@ -5,6 +5,8 @@ This portfolio is a compilation of notebooks which I created for data analysis. 
 
 ## 1. [Project 1: Home Credit / Loan Default Risk](#Project-1:-Home-Credit-/-Loan-Default-Risk)
 
+## 2. [Project 2: CocaCola Swire Case Competition](#Project-2:-CocaCola-Swire-Case Competition)
+
 # [Project 1: Home Credit / Loan Default Risk](https://github.com/NickSarka2000/MSBA-Repo)
 
 ## 1. Introduction
@@ -71,3 +73,6 @@ I was responsible for creating and running my own exploratory data analysis and 
 
 ## 11. Conclusion
 This project has shown that predictive modeling can significantly enhance the ability of financial institutions to lend responsibly, while also promoting financial inclusion by accurately assessing creditworthiness. This work underscores the impactful role of data science in advancing equitable financial services.
+
+
+# [Project 2: CocaCola Swire Case Competition](https://github.com/NickSarka2000/MSBA-Capstone-Fall-2024)
