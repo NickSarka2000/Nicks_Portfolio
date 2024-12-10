@@ -76,3 +76,58 @@ This project has shown that predictive modeling can significantly enhance the ab
 
 
 # [Project 2: CocaCola Swire Case Competition](https://github.com/NickSarka2000/MSBA-Capstone-Fall-2024)
+
+## Business Problem
+Swire Coca-Cola's six production plants, which serve 13 states and a demand of 192 million beverage cases, are currently meeting only 94.4% of the demand. This shortfall is largely due to unplanned machine downtime caused by maintenance, mechanical failures, wear and tear, and other issues. These downtimes lead to work orders with long lead times, costing the company approximately $60 million annually in production losses.
+
+## Project Objective
+The project aims to develop a predictive model to identify machines at risk of failure. By anticipating these failures, Swire Coca-Cola can implement predictive maintenance strategies, optimize machine maintenance schedules, and proactively procure critical parts to reduce downtime and associated costs.
+
+## Benefits of the Solution
+- **Lifecycle Management**: Understand and quantify the lifecycle of machine parts.
+- **Production Optimization**: Improve scheduling to maximize output.
+- **Inventory Management**: Develop reorder quantities for critical machine components.
+
+## Analytics Approach
+- **Regression Techniques**: To estimate downtime duration.
+- **Descriptive Analytics**: To understand maintenance strategies for critical parts.
+
+The project will be deemed successful if the predictive model can explain causes and effects and predict failures with a higher accuracy than random chance (50/50). Deliverables include the predictive model, a detailed report on findings, and a GitHub repository with all relevant code.
+
+## Contribution
+My contribution on this project was that of at times a project manager that organized the group and established meetings for the group to engage in discussions on how to proceed with our project and stay on the same page. A larger portion of my contribution was on the development of the unsupervised machine learning models we employed (like PCA, K Means Clustering, and Rule Association Mining) and in the analysis of the missing data that we were presented with in our dataset.
+
+## Business Value
+The predictive model aims to significantly reduce the financial losses associated with unplanned machine downtime, currently costing Swire Coca-Cola $60 million annually. By identifying machines at risk of failure, the solution will enable:
+
+- **Cost Savings**: Minimized production losses through timely maintenance and part replacement.
+- **Operational Efficiency**: Improved production scheduling, leading to higher plant utilization rates.
+- **Inventory Optimization**: Reduction in overstocking or shortages of critical components by accurately forecasting part requirements.
+
+## Difficulties Encountered
+
+- **Data Quality Issues**:
+   - The dataset contained missing values and inconsistencies, which required extensive preprocessing to ensure model accuracy.
+   - Cleaning time-series data was particularly challenging due to irregular intervals and outliers.
+
+- **Model Selection**:
+   - Identifying the most suitable model for time-series forecasting and failure prediction required iterative testing and evaluation.
+
+- **Resource Constraints**:
+   - Limited time and computational resources impacted the team's ability to test a wider range of advanced models.
+
+- **Integration Challenges**:
+   - Designing a seamless integration of the predictive model into existing workflows and systems posed logistical and technical challenges.
+
+## What We Learned
+- **Importance of Data Preprocessing**:
+   - The project reinforced the critical role of data cleaning and normalization in enhancing model performance.
+
+- **Iterative Model Development**:
+   - Experimenting with different analytical approaches deepened the team's understanding of the strengths and limitations of time-series and classification models.
+
+- **Collaboration Skills**:
+   - Effective communication and task delegation were key to overcoming project bottlenecks and meeting deadlines.
+
+- **Business-Driven Analytics**:
+   - Understanding the business implications of the solution guided model development and ensured alignment with organizational objectives.
